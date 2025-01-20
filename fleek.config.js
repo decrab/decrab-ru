@@ -2,7 +2,7 @@
 module.exports = {
   "sites": [
     {
-      "slug": "decrab",
+      "slug": "decrab-ru",
       "distDir": "./dist",
       "buildCommand": ""
     }
